@@ -51,7 +51,7 @@ including keyboard shortcuts, typing, mouse control, and file operations.
 | **Mouse Control** <br> (move, click) | **Scroll up/down** <br> (Hold the gestuer for scrolling up and down) |  |
 
 
-## 📹 Demo Videos
+## 📹 Continoues Real Application Demo Videos (NO CUT, NO EDITTING)
 [https://github.com/AndyHuynh24/HandKey/issues/1#issue-3579983604](https://github.com/user-attachments/assets/874403e4-094d-43fe-b69d-a0671dce15b1)
 
 ## 🧰 Tech Stack
