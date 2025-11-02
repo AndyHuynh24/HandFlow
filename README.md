@@ -19,7 +19,7 @@ Trained on 12 distinct gesture classes, Handkey recognizes dynamic hand movement
 
 ## 🎯 Gesture Showcase
 
-| ![](Demo/Left_swipeleft) | ![](Demo/Left_pointyclick.gif) | ![](Demo/Left_middleclick.gif) |
+| ![](Demo/Left_swipeleft.gif) | ![](Demo/Left_pointyclick.gif) | ![](Demo/Left_middleclick.gif) |
 |:--:|:--:|:--:|
 | Left_swipe | Left_pointyclick | Left_middleclick |
 
@@ -27,7 +27,7 @@ Trained on 12 distinct gesture classes, Handkey recognizes dynamic hand movement
 |:--:|:--:|:--:|
 | Left_ringclick | Left_pinkyclick | Left_zoom |
 
-| ![](Demo/Right_swiperight) | ![](Demo/Right_pointyclick.gif) | ![](Demo/Right_middleclick.gif) |
+| ![](Demo/Right_swiperight.gif) | ![](Demo/Right_pointyclick.gif) | ![](Demo/Right_middleclick.gif) |
 |:--:|:--:|:--:|
 | Right_swipe | Right_pointyclick | Right_middleclick |
 
