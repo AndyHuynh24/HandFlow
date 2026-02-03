@@ -4,6 +4,28 @@ A gesture recognition ML project using deep learning. This guide covers everythi
 
 ---
 
+  # Basic benchmark (all architectures)                      
+  python scripts/benchmark_inference.py                      
+                                                             
+  # More iterations for accurate results                     
+  python scripts/benchmark_inference.py --iterations 500     
+  --warmup 50                                                
+                                                             
+  # Include TFLite comparison                                
+  python scripts/benchmark_inference.py --include-tflite     
+                                                             
+  # Benchmark specific architectures only                    
+  python scripts/benchmark_inference.py --architectures lstm 
+  tcn transformer                                            
+                                                             
+  # Different batch size                                     
+  python scripts/benchmark_inference.py --batch-size 8       
+                                                             
+  Output will show a table with:                             
+  - Mean/Std/Min/P95 inference times in milliseconds         
+  - Parameter count for each model                           
+  - Fastest model summary at the end     
+
 ## Table of Contents
 
 1. [Quick Start](#quick-start)
